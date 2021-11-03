@@ -1,0 +1,1 @@
+var json_PoliceStation_4 = {"type":"FeatureCollection","name":"PoliceStation_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"267","Name":"Ungwan Rimi Police Station","Eastings":"332134.7","Northings":"1164209.3"},"geometry":{"type":"Point","coordinates":[7.465943896982401,10.528071352665236]}}]}

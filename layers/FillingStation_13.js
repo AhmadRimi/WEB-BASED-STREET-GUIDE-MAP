@@ -1,0 +1,1 @@
+var json_FillingStation_13 = {"type":"FeatureCollection","name":"FillingStation_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"256","Name":"Total Filling Station","Eastings":"331426.4","Northings":"1164260.3"},"geometry":{"type":"Point","coordinates":[7.459473217610372,10.52850531370745]}}]}
